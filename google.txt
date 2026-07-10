@@ -5,3 +5,4 @@ ssl.google-analytics.com
 ||analytics.google.com^
 ||googletagmanager.com
 ||google.com
+||fashiondays.ro
